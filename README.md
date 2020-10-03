@@ -4,6 +4,6 @@ Simple calculator application made for android:
 
 <br>
 <div align = "center">
-  <img src="Capture.PNG" width="750"/>
+  <img src="Capture.PNG" width="300"/>
 </div>
 <br>
